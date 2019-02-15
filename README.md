@@ -1,3 +1,3 @@
 Installation with [homesick](https://github.com/technicalpickles/homesick):
 
-    homesick clone nbraem/dotvim
+    homesick clone fabricecops/dotvim
