@@ -112,6 +112,9 @@ nmap <silent> <leader>sv :so $MYVIMRC<CR>
 
 nmap <silent> <leader>m :MRU<CR>
 
+" Map Nerdtree
+nmap <silent> <leader>nj :NERDTree<CR>
+
 " Grep current word
 map gr :grep <cword> <CR>
 
